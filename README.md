@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Build status
+
+[![Node.js CI](https://github.com/lowks/random-generator-ui/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/lowks/random-generator-ui/actions/workflows/npm-publish.yml)
+
 ## Available Scripts
 
 In the project directory, you can run:
